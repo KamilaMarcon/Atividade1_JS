@@ -1,0 +1,76 @@
+header {
+	background-color: rgb(12, 50, 14);
+	color: aliceblue;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.principal {
+	background-color: rgb(17, 75, 21);
+
+}
+
+.item {
+	color: aliceblue;
+	padding-top: 34px;
+	text-align: center;
+	list-style-type: none ;
+
+}
+
+.but {
+	border: 0.5px solid #fff;
+	border-radius: 4px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	transition: all 0.3s ease-in;
+	cursor: pointer;
+	margin: 56px;
+	background-color: #fff;
+	color: #000000;
+	font-family: "ChaletComprime";
+	font-weight: 700;
+}
+
+.but:hover {
+	background-color:  #50a14afe;;
+   text-decoration: underline;
+}
+
+.botao {
+	border: 0.5px solid #fff;
+	border-radius: 4px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	transition: all 0.3s ease-in;
+	font-family: "ChaletComprime";
+	font-weight: 700;
+	cursor: pointer;
+	margin: 56px;
+	margin-left: 825px;
+}
+
+.botao:hover {
+	 background-color: #50a14afe;
+	text-decoration: underline;
+}
+
+
+.imagens {
+	background-color: rgb(20, 93, 26);
+	background: linear-gradient(-233deg, #062f0a 40%, rgba(19, 149, 23, 0.794) 65%) no-repeat;
+	margin-left: 200px;
+	padding: 0px 10px 30px;
+}
+
+footer {
+	text-align: center;
+	background: black;
+	padding: px 0;
+
+}
+
+.copyright {
+	color: #ffffff;
+	font-size: 13px;
+}
